@@ -10,3 +10,10 @@ I think apple
 sxsw
 breaking bad
 game of thrones
+#[^#]+#[^#]+#
+^/.@
+^Hey @
+^Wow\.
++K
+trending in
+trending topic
